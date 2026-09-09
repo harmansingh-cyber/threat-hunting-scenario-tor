@@ -41,7 +41,8 @@ DeviceFileEvents
          SHA1, SHA256
 | order by Timestamp desc
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/71402e84-8767-44f8-908c-1805be31122d">
+<img width="1704" height="409" alt="Screenshot 2026-09-09 at 1 53 55 AM" src="https://github.com/user-attachments/assets/82ba0e3b-9fe4-41eb-bd53-787149e522e3" />
+
 
 ---
 
